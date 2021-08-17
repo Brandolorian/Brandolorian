@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brandolorian
-- 👀 I’m interested in learning JavaScript and eventually become a Front-End Developer!
-- 🌱 I’m currently learning JS, HTML, and CSS.
+- 👀 I’m interested in learning Python/JavaScript and eventually become a Front-End Developer!
+- 🌱 I’m currently learning Python, JS, HTML, and CSS.
 - 📫 How to reach me: bckliefoth@gmail.com.
 
 <!---
